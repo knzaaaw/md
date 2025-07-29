@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6281292674911']
+global.ownernomer = "6281292674911"
+global.premium = ['6281292674911']
+global.packname = 'cr'
+global.author = 'KHNZABOT 🎀'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,7 +62,7 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
 global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygc = "https://chat.whatsapp.com/LS2DMA77VxHCvcBPaLODLl"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'NAZE BOT'
